@@ -1,4 +1,4 @@
-# Melham-Attendance-Tracker-v2
+# Melham Attendance Tracker v2
 This projects is what i working on during my internship. The will track the intern's time record and calculate how much time they left for their internship.
 
 Its also has an addiional features that:
