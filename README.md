@@ -7,7 +7,7 @@ Its also has an addiional features that:
 
 To set up this web:
 1. read and follow the instruction at readme.txt that can found at database folder
-2. use this following credintials to
+2. use this following credintials
 
 Admin account
 username: admin0101@gmail.com
